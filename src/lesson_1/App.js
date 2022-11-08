@@ -20,11 +20,6 @@ function montoToStr(num) {
             ];
 }
 
-
-
-
-
-
 function App() {
   return (
     <div className="App">
